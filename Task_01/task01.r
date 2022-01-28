@@ -189,3 +189,6 @@ telegram("Good morning")
 mad_libs("On TV", place, "Today", adjective,"Running", noun,"Store")
 'I' %p% 'love' %p% 'R!'
 1
+1
+0
+0
